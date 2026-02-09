@@ -1,9 +1,9 @@
 <!-- Banner / Hello -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arthursbmelo/arthursbmelo/main/hello.png" width="500"/>
+  <img src="hello.png" width="500"/>
 </p>
 
-<h1 align="center"> I'm Arthur Sobral! 👋</h1>
+<h1 align="center">Hi, I'm Arthur Sobral 👋</h1>
 
 ---
 
