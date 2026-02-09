@@ -3,11 +3,11 @@
   <img src="hello.png" width="500"/>
 </p>
 
-<h1 align="center">Hi, I'm Arthur Sobral 👋</h1>
+<h1 align="center"> I'm Arthur Sobral 👋</h1>
 
 ---
 
-### 👨‍💻 About me
+### 👨‍💻 Characteristics about me
 - 🎓 5th semester student in **Electrical Engineering at UFPB**
 - 🔍 Researcher at **ODP**
 - 📚 Interested in **Data Science and Artificial Intelligence**
@@ -20,13 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthursbmelo&show_icons=true&theme=dark" />
 </p>
 
 ---
