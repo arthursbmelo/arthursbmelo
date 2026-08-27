@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 Characteristics about me
-- 🎓 6th semester student in **Electrical Engineering at UFPB**
+- 🎓 7th semester student in **Electrical Engineering at UFPB**
 - 🔍 Researcher at **ODP**
 - 📚 Interested in **Data Science and Artificial Intelligence**
 
@@ -19,7 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
 </p>
 
 ---
